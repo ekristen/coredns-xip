@@ -1,4 +1,4 @@
-package xip
+package ipin
 
 import (
 	"github.com/coredns/coredns/core/dnsserver"
