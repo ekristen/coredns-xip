@@ -1,6 +1,6 @@
 // Package whoami implements a plugin that returns details about the resolving
 // querying it.
-package ipin
+package xip
 
 import (
 	"github.com/coredns/coredns/request"
